@@ -139,109 +139,109 @@
     <string name="quickspace_psa_title">Tin nhắn ngẫu nhiên</string>
     <string name="quickspace_psa_summary">Làm cho người bạn đồng hành của bạn trở nên sinh động hơn với những tin nhắn ngẫu nhiên</string>
     <string-array name="quickspace_psa_morning">
-        <item>Good morning!</item>
-        <item>Good morning my friend!</item>
-        <item>What a beautiful day!</item>
-        <item>Have a nice day!</item>
-        <item>Health Glance: A little exercise would be nice</item>
-        <item>Good morning beauty! - not dfntly automated</item>
-        <item>Uhhh.. 5 more minutes...</item>
-        <item>I pour milk first before cereal...</item>
-        <item>Good morning handsome! -not dfntly automated</item>
-        <item>The weather is good, i mean 32C. unsupported msg.</item>
-        <item>Weather is cold hot winter,spring, summer or fall &#128191;</item>
-        <item>That\'s one way to wake up.</item>
-        <item>Rest in peace melatonin.</item>
-        <item>You should change your alarm sounds.</item>
-        <item>Looks like it\'s a beautiful day, isn\'t it?</item>
-        <item>Let\'s get this bread.</item>
-        <item>Check the weather just in case</item>
-        <item>I\'m not alexa, swipe to the left for Google Feed!</item>
-        <item>The weather for today is.. idk</item>
-        <item>Feeling a bit sleepy yet</item>
-        <item>Have you looked outside yet?</item>
-        <item>Keep The Love!</item>
-        <item>Let\'s get this done.</item>
+        <item>Chào buổi sáng!</item>
+        <item>Chào buổi sáng bạn của tôi!</item>
+        <item>Chúc một ngày tốt lành!</item>
+        <item>Chúc bạn một ngày tốt lành!</item>
+        <item>Tổng quan về sức khỏe: Tập thể dục một chút sẽ rất tốt</item>
+        <item>Chào buổi sáng người đẹp</item>
+        <item>Uhhh.. 5 phút nữa...</item>
+        <item>Tôi đổ sữa trước trước khi cho ngũ cốc...</item>
+        <item>Chào buổi sáng người đẹp</item>
+        <item>Thời tiết tốt, ý tôi là 32C. tin nhắn không được hỗ trợ.</item>
+        <item>Thời tiết nóng lạnh mùa đông, mùa xuân, mùa hạ hay mùa thu &#128191;</item>
+        <item>Đó là một cách để thức dậy.</item>
+        <item>Nghỉ ngơi trong hòa bình.</item>
+        <item>Bạn nên thay đổi âm thanh báo thức của mình.</item>
+        <item>Có vẻ như đó là một ngày đẹp trời, phải không?</item>
+        <item>Hãy lấy bánh mì này.</item>
+        <item>Ra ngoài nhớ mang theo dù hoặc đội mũ nha</item>
+        <item>Tôi không phải là alexa, hãy vuốt sang trái để tìm Nguồn cấp dữ liệu Google!</item>
+        <item>Thời tiết hôm nay là.. idk</item>
+        <item>Cảm thấy hơi buồn ngủ</item>
+        <item>Bạn đã thử nhìn ra ngoài chưa?</item>
+        <item>Giữ tình yêu!</item>
+        <item>Hoàn thành việc hôm nay của bạn đi.</item>
     </string-array>
     <string-array name="quickspace_psa_noon">
-        <item>Good afternoon..</item>
-        <item>The dawn will arrive sooner or later..</item>
-        <item>Health Glance: Stay Home!</item>
-        <item>A Soda would be nice.</item>
-        <item>Go touch some grass!</item>
-        <item>Do something befor the day ends!</item>
-        <item>Get some snacks while you\'re at it.</item>
-        <item>I want to buy some siomai now..</item>
-        <item>Go out and have fun!</item>
-        <item>If a good time to go out and eat.</item>
-        <item>Did you have fun today?</item>
-        <item>We\'re almost there! Hang on!</item>
-        <item>Let\'s go for some ricebox!</item>
-        <item>It\'s nice to sleep under a tree..</item>
-        <item>I love watching the sunset..</item>
-        <item>Have you eaten your merienda?</item>
-        <item>How about some drinks?</item>
-        <item>Siesta at it\'s finest..</item>
-        <item>Craving for some empanada..</item>
+        <item>Chào buổi chiều..</item>
+        <item>Bình minh sớm muộn cũng sẽ đến..</item>
+        <item>Tổng quan về sức khỏe: Hãy ở nhà!</item>
+        <item>Một lon Soda sẽ rất tốt.</item>
+        <item>Đi chạm vào một số cỏ!</item>
+        <item>Làm điều gì đó trước khi hết ngày!</item>
+        <item>Mua một số đồ ăn nhẹ khi bạn đang ở đó.</item>
+        <item>Tôi muốn mua một số siomai ngay bây giờ..</item>
+        <item>Đi ra ngoài và vui chơi!</item>
+        <item>Nếu một thời gian tốt để đi ra ngoài và ăn.</item>
+        <item>Hôm nay, bạn có vui không?</item>
+        <item>Chúng ta gần đến rồi! Cố lên!</item>
+        <item>Đi kiếm hộp cơm nào!</item>
+        <item>Thật tuyệt khi được ngủ dưới gốc cây..</item>
+        <item>Tôi thích ngắm hoàng hôn..</item>
+        <item>Bạn đã ăn bánh của bạn chưa?</item>
+        <item>Làm thế nào về một số đồ uống?</item>
+        <item>Ngủ trưa lúc đó là tốt nhất..</item>
+        <item>Thèm một số empanada..</item>
     </string-array>
     <string-array name="quickspace_psa_early_evening">
-        <item>Good Evening!</item>
-        <item>The night comes..</item>
-        <item>Don\'t forget to eat your dinner!</item>
-        <item>Time to relax and eat fries.</item>
-        <item>How about watching something a good movie?</item>
-        <item>Hello, how are you?</item>
-        <item>Maybe try watching some youtube videos</item>
-        <item>Its not bad to watch some news isn\'t it?</item>
-        <item>The eve comes!</item>
-        <item>Hey charge me already!</item>
-        <item>Tonight if you are free.</item>
-        <item>Let spent time to go outside and do fun with friends.</item>
-        <item>Hey! Tea time</item>
-        <item>Friendship is the shadow of the evening, which increases with the setting sun of life!</item>
-        <item>Don\'t think bad buddy</item>
-        <item>Be grateful to everyone</item>
-        <item>The day is almost done. Good job surviving!</item>
-        <item>You are amazing, now take some rest!</item>
-        <item>How\'s your day?</item>
-        <item>If you failed today, you can fail again tomorrow, chill.</item>
+        <item>Chào buổi tối!</item>
+        <item>Đêm đến rồi..</item>
+        <item>Đừng quên chuẩn bị bữa tối của bạn!</item>
+        <item>Thời gian để thư giãn và ăn khoai tây chiên.</item>
+        <item>Bạn nghĩ thế nào về việc xem một cái gì đó hoặc một bộ phim hay?</item>
+        <item>Xin chào bạn khoẻ không?</item>
+        <item>Có thể thử xem một số video trên youtube</item>
+        <item>Thật không tồi khi xem một số tin tức phải không?</item>
+        <item>Buổi tối đang đến!</item>
+        <item>Này tính tiền cho tôi đã!</item>
+        <item>Tối nay nếu bạn rảnh.</item>
+        <item>Hãy dành thời gian để ra ngoài và vui chơi với bạn bè.</item>
+        <item>Chào! thời gian uống trà</item>
+        <item>Tình bạn là bóng tối, tăng lên khi mặt trời lặn của cuộc đời!</item>
+        <item>Đừng nghĩ xấu nhé bạn</item>
+        <item>Biết ơn mọi người</item>
+        <item>Ngày gần xong. Làm tốt công việc sống sót!</item>
+        <item>Bạn thật tuyệt vời, bây giờ hãy nghỉ ngơi một chút!</item>
+        <item>Hôm nay bạn cảm thấy thế nào?</item>
+        <item>Nếu bạn thất bại ngày hôm nay, bạn có thể thất bại lần nữa vào ngày mai, hãy bình tĩnh.</item>
     </string-array>
     <string-array name="quickspace_psa_evening">
-        <item>Good night!</item>
-        <item>Sleep well!</item>
-        <item>See you tomorrow!</item>
-        <item>Sweet dreams!</item>
-        <item>Don\'t stay up too long</item>
-        <item>Have a good sleep</item>
-        <item>Get some sleep</item>
-        <item>Time to relax</item>
-        <item>Enjoy the night!</item>
-        <item>Time to charge the batteries!</item>
-        <item>Tomorrow might be a great day</item>
-        <item>Get your bones ready for tomorrow</item>
-        <item>Wala na, finish na.</item>
-        <item>I\'m feeling sleepy now..</item>
-        <item>Why aren\'t you sleep yet?</item>
-        <item>Rest in peace melatonin.</item>
-        <item>Dance the night away...</item>
-        <item>Aren\'t the moon and stars amazing? </item>
-        <item>8 hours of sleep is a must!</item>
-        <item>There are many what ifs in this world. Relax.</item>
+        <item>Chúc bạn ngủ ngon!</item>
+        <item>Ngủ ngon nhé!</item>
+        <item>Hẹn gặp bạn vào ngày mai!</item>
+        <item>Chúc bạn có những giấc mơ đẹp!</item>
+        <item>Đừng ngủ quá muộn nhé</item>
+        <item>Chúc bạn có một giấc ngủ ngon</item>
+        <item>Ngủ một chút đi</item>
+        <item>Đến giờ giải lao rồi</item>
+        <item>Buổi tối vui vẻ!</item>
+        <item>Đã đến lúc sạc pin!</item>
+        <item>Ngày mai có thể là một ngày tuyệt vời</item>
+        <item>Chuẩn bị sẵn sàng cho ngày mai</item>
+        <item>Không còn nữa, nó kết thúc.</item>
+        <item>Bây giờ tôi cảm thấy buồn ngủ..</item>
+        <item>Tại sao bạn vẫn chưa ngủ?</item>
+        <item>Nghỉ ngơi trong hòa bình.</item>
+        <item>Nhảy múa suốt đêm...</item>
+        <item>Không phải mặt trăng và các vì sao tuyệt vời sao? </item>
+        <item>8 giờ ngủ là điều bắt buộc!</item>
+        <item>Có rất nhiều điều gì xảy ra trên thế giới này. Thư giãn.</item>
     </string-array>
     <string-array name="quickspace_psa_midnight">
-        <item>Um... good mornight?</item>
-        <item>You sure like coffee...</item>
-        <item>It\'s a bit late now</item>
-        <item>Have you ever think about space at this time?</item>
-        <item>Sleep is for the weak!</item>
-        <item>You should fix your sleep schedule</item>
-        <item>Are you more productive at this time?</item>
+        <item>Ừm... chào buổi sáng?</item>
+        <item>Bạn chắc chắn thích cà phê...</item>
+        <item>Bây giờ hơi muộn</item>
+        <item>Bạn đã bao giờ nghĩ về không gian vào thời điểm này chưa?</item>
+        <item>Ngủ là dành cho kẻ yếu!</item>
+        <item>Bạn nên chỉnh sửa lịch ngủ của mình</item>
+        <item>Bạn có năng suất hơn vào thời điểm này?</item>
         <item>RIP melatonin.. zzzz</item>
         <item>zzzzzZZZZzzzzzz</item>
-        <item>I was able to sleep, but you weren\'t!??</item>
-        <item>I bet you lost a lot of ranked matches. LMAO</item>
-        <item>Health Glance: 8 hours of sleep is a must!</item>
-        <item>Go ahead drink a cup of coffee, i\'ll contact st. Peter</item>
+        <item>Tôi đã có thể ngủ, nhưng bạn thì không!??</item>
+        <item>Tôi cá là bạn đã thua rất nhiều trận đấu xếp hạng. Buồn cười</item>
+        <item>Giữ gìn sức khỏe: Ngủ đủ 8 tiếng là điều bắt buộc!</item>
+        <item>Tiếp tục uống một tách cà phê, tôi sẽ liên hệ với st. Peter</item>
     </string-array>
     <string-array name="quickspace_psa_random">
         <item>Điếc không sợ súng</item>
