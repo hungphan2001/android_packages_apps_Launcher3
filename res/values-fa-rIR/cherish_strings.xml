@@ -17,319 +17,319 @@
     <!-- Application name -->
     <!-- Folder titles -->
     <!-- General -->
-    <string name="settings_title">Cherish Launcher settings</string>
+    <string name="settings_title">تنظیمات صفحه اصلی</string>
     <!-- Categories -->
-    <string name="home_category_title">Home screen</string>
-    <string name="home_category_summary">Set Google now panel and more</string>
-    <string name="icons_category_title">Icons</string>
-    <string name="icons_category_summary">Set icon size and more</string>
-    <string name="app_drawer_category_title">App drawer</string>
-    <string name="app_drawer_category_summary">Customize your app drawer</string>
-    <string name="recents_category_title">Recents</string>
-    <string name="recents_category_summary">Revamp the overview screen</string>
-    <string name="misc_category_title">Miscellaneous</string>
-    <string name="misc_category_summary">Other options</string>
-    <string name="general_category_title">General</string>
-    <string name="interface_category_title">Interface</string>
-    <string name="quickspace_category_title">Quickspace</string>
-    <string name="search_bar_category_title">Search bar</string>
-    <string name="actions_category_title">Quick actions</string>
+    <string name="home_category_title">صفحه خانه</string>
+    <string name="home_category_summary">تنظیمات پنل دستیار صوتی گوگل و بیشتر</string>
+    <string name="icons_category_title">آیکون ها</string>
+    <string name="icons_category_summary">تنظیم اندازه آیکون ها و بیشتر</string>
+    <string name="app_drawer_category_title">منو فهرست برنامه ها</string>
+    <string name="app_drawer_category_summary">شخصی سازی منو فهرست برنامه ها</string>
+    <string name="recents_category_title">برنامه‌های اخیر</string>
+    <string name="recents_category_summary">ویرایش نمای کلی صفحه</string>
+    <string name="misc_category_title">سایر و تنظیمات متفرقه</string>
+    <string name="misc_category_summary">سایر گزینه‌ ها</string>
+    <string name="general_category_title">عمومی</string>
+    <string name="interface_category_title">رابط کاربری</string>
+    <string name="quickspace_category_title">فضای سریع</string>
+    <string name="search_bar_category_title">نوار جستجو</string>
+    <string name="actions_category_title">تنظیمات سریع</string>
     <!-- Developer options -->
-    <string name="dev_options_title">Developer options</string>
-    <string name="dev_options_summary">Enable some hidden features at your own risk</string>
+    <string name="dev_options_title">تنظیمات توسعه دهنده</string>
+    <string name="dev_options_summary">فعال کردن بعضی گزینه های مخفی با مسئولیت خود</string>
     <!-- Edit workspace -->
-    <string name="settings_lock_layout_title">Lock layout</string>
-    <string name="settings_lock_layout_summary_on">Icons and widgets can\'t be added, removed and moved on the homescreen</string>
-    <string name="settings_lock_layout_summary_off">Icons and widgets can be added, removed and moved on the homescreen</string>
-    <string name="settings_edit_widgets_error">It\'s not possible to add widgets to the home screen</string>
+    <string name="settings_lock_layout_title">قفل کردن طرح چیدمان</string>
+    <string name="settings_lock_layout_summary_on">نمادها و ابزارک ها نمی توانند اضافه شوند، برداشته شوند و یا در صفحه اصلی منتقل شوند</string>
+    <string name="settings_lock_layout_summary_off">نمادها و ابزارک ها را می توان اضافه، حذف و بر روی صفحه اصلی منتقل کرد</string>
+    <string name="settings_edit_widgets_error">افزودن ابزارک به صفحه اصلی امکان‌پذیر نیست</string>
     <!-- Hide labels -->
-    <string name="desktop_show_labels">Icon labels on desktop</string>
-    <string name="drawer_show_labels">Icon labels in drawer</string>
+    <string name="desktop_show_labels">نمایش نام برنامه ها در صفحات اصلی</string>
+    <string name="drawer_show_labels">نمایش نام برنامه ها در منو فهرست برنامه ها</string>
     <!-- Settings title to show Google Now at -1 screen on launcher. [CHAR LIMIT=50] -->
-    <string name="title_show_google_app">Swipe to access Google app</string>
+    <string name="title_show_google_app">انگشت خود را برای دسترسی به برنامه گوگل بکشید</string>
     <!-- Settings message explaining when the -1 screen is available on an LTR device. [CHAR LIMIT=100] -->
-    <string name="msg_minus_one_on_left">When you swipe right from main home screen</string>
+    <string name="msg_minus_one_on_left">زمانی که به سمت راست از صفحه اصلی خانه حرکت میکنید</string>
     <!-- Settings message explaining when the -1 screen is available on an RTL device. [CHAR LIMIT=100] -->
-    <string name="msg_minus_one_on_right">When you swipe left from main home screen</string>
+    <string name="msg_minus_one_on_right">زمانی که به سمت چپ از صفحه اصلی خانه حرکت میکنید</string>
     <!-- Trust apps -->
-    <string name="trust_apps_manager_name">Hidden &amp; Protected apps</string>
-    <string name="trust_apps_auth_manager">Unlock to manage the hidden and protected apps</string>
-    <string name="trust_apps_auth_open_app">Authenticate to open %1$s</string>
-    <string name="trust_apps_loading">Loading\u2026</string>
-    <string name="trust_apps_no_lock_error">Please set up a secure lock screen to restrict app access</string>
-    <string name="trust_apps_help">Help</string>
-    <string name="trust_apps_info_hidden">Hidden apps and their widgets are hidden from the drawer</string>
-    <string name="trust_apps_info_protected">Protected apps require authentication to be opened from the launcher</string>
+    <string name="trust_apps_manager_name">برنامه‌ های مخفی و قفل شده</string>
+    <string name="trust_apps_auth_manager">برای مدیریت و تنظیمات برنامه‌های مخفی و محافظت شده قفل را باز کنید</string>
+    <string name="trust_apps_auth_open_app">احراز هویت برای باز کردن %1$s</string>
+    <string name="trust_apps_loading">در حال بارگذاری\u2026</string>
+    <string name="trust_apps_no_lock_error">لطفا یک قفل صفحه ایمن برای کنترل و محدود سازی دسترسی برنامه تنظیم کنید</string>
+    <string name="trust_apps_help">راهنما</string>
+    <string name="trust_apps_info_hidden">برنامه‌های مخفی و ابزارک هایشان از منو فهرست برنامه ها مخفی هستند</string>
+    <string name="trust_apps_info_protected">برنامه های قفل شده برای باز شدن از صفحه اصلی نیاز به احراز دارند</string>
     <!-- DT2S -->
-    <string name="pref_sleep_gesture_title">Double tap to sleep</string>
-    <string name="pref_sleep_gesture_summary">Double tap on empty space for screen off</string>
+    <string name="pref_sleep_gesture_title">دو بار ضربه برای به خواب رفتن دستگاه</string>
+    <string name="pref_sleep_gesture_summary">برای خاموش کردن صفحه نمایش روی فضای خالی صفحه دوبار ضربه بزنید</string>
     <!-- Pause apps shortcut -->
-    <string name="pause">Pause</string>
-    <string name="pause_apps_dialog_title">Pause %1$s?</string>
-    <string name="pause_apps_dialog_message">Notifications for %1$s will be paused</string>
-    <string name="paused_apps_dialog_title">App paused</string>
-    <string name="paused_apps_dialog_message">%1$s was directly paused from the launcher</string>
-    <string name="paused_apps_drop_target_label">Pause app</string>
+    <string name="pause">مکث</string>
+    <string name="pause_apps_dialog_title">مکث %1$s؟</string>
+    <string name="pause_apps_dialog_message">اعلان‌ها برای %1$s متوقف می‌شوند</string>
+    <string name="paused_apps_dialog_title">برنامه متوقف شده است</string>
+    <string name="paused_apps_dialog_message">%1$s مستقیماً از صفحه اصلی متوقف شده است</string>
+    <string name="paused_apps_drop_target_label">متوقف کردن برنامه</string>
     <!-- Custom seekbar -->
-    <string name="custom_seekbar_value">Value: <xliff:g id="v">%s</xliff:g></string>
-    <string name="custom_seekbar_default_value">by default</string>
-    <string name="custom_seekbar_default_value_to_set">Default value: <xliff:g id="v">%s</xliff:g>\nLong tap to set</string>
-    <string name="custom_seekbar_default_value_is_set">Default value is set</string>
+    <string name="custom_seekbar_value">مقدار: <xliff:g id="v">%s</xliff:g></string>
+    <string name="custom_seekbar_default_value">به صورت پیش فرض</string>
+    <string name="custom_seekbar_default_value_to_set">مقدار پیش‌فرض: <xliff:g id="v">%s</xliff:g>\n برای تنظیم نگه دارید</string>
+    <string name="custom_seekbar_default_value_is_set">مقدار پیش‌فرض تنظیم شده است</string>
     <!-- Icon size -->
-    <string name="icon_size_title">Icon size</string>
+    <string name="icon_size_title">اندازه آیکون</string>
     <!-- Font size -->
-    <string name="font_size_title">Font size</string>
+    <string name="font_size_title">اندازه فونت</string>
     <!-- App label - max lines -->
-    <string name="icon_max_lines_title">Max lines for app label</string>
+    <string name="icon_max_lines_title">حداکثر تعداد خط برای نام برنامه</string>
     <!-- Hotseat searchbar -->
-    <string name="label_search">Search</string>
-    <string name="label_lens">Google Lens</string>
-    <string name="label_voice_search">Voice search</string>
-    <string name="dock_music_search_title">Music search</string>
-    <string name="dock_music_search_summary">Start music search on pressing mic icon</string>
-    <string name="dock_search_title">Google search bar</string>
-    <string name="dock_search_summary">Search bar in the bottom dock</string>
-    <string name="dock_theme_title">Themed icons</string>
-    <string name="dock_theme_summary">Use themed icons for search bar</string>
-    <string name="search_radius_title">Corner radius</string>
+    <string name="label_search">جستجو</string>
+    <string name="label_lens">گوگل لنز</string>
+    <string name="label_voice_search">جستجو صوتی</string>
+    <string name="dock_music_search_title">جستجو موسیقی</string>
+    <string name="dock_music_search_summary">شروع جستجو موسیقی با فشار دادن آیکون میکروفن</string>
+    <string name="dock_search_title">نوار جست‌وجوی گوگل</string>
+    <string name="dock_search_summary">نوار جستجو در پایین صفحه اصلی</string>
+    <string name="dock_theme_title">آیکون های تم دار</string>
+    <string name="dock_theme_summary">استفاده کردن از آیکون های تم دار برای نوار جستجو</string>
+    <string name="search_radius_title">گردی گوشه ها</string>
     <!-- Hotseat Background -->
-    <string name="hotseat_bg_title">Hotseat background</string>
-    <string name="hotseat_bg_summary">Add translucent background to the app dock</string>
+    <string name="hotseat_bg_title">پس زمینه Hotseat</string>
+    <string name="hotseat_bg_summary">یک پس‌زمینه شفاف به پایین صفحه اصلی اضافه می‌کند</string>
     <!-- Wallpaper scrolling -->
-    <string name="allow_wallpaper_scrolling">Wallpaper scrolling</string>
-    <string name="allow_wallpaper_scrolling_summary">Wallpaper scrolling effect for multiple screens</string>
+    <string name="allow_wallpaper_scrolling">حرکت کردن تصویر پس زمینه</string>
+    <string name="allow_wallpaper_scrolling_summary">طرح حرکت کردن تصویر پس زمینه برای چند صفحه نمایش</string>
     <!-- Wallpaper zooming -->
-    <string name="allow_wallpaper_zooming">Wallpaper zooming</string>
-    <string name="allow_wallpaper_zooming_summary">Zoom in or out the wallpaper when using drawer or recent apps</string>
+    <string name="allow_wallpaper_zooming">بزرگنمایی شدن کاغذ دیواری</string>
+    <string name="allow_wallpaper_zooming_summary">هنگام استفاده از منو فهرست برنامه ها یا برنامه های اخیر، کاغذ دیواری را بزرگ یا کوچک کنید</string>
     <!-- Homescreen Statusbar -->
-    <string name="show_statusbar_title">Status Bar</string>
+    <string name="show_statusbar_title">نوار وضعیت</string>
     <!-- Top shadow -->
-    <string name="show_top_shadow">Top shadow</string>
+    <string name="show_top_shadow">سایه بالا صفحه</string>
     <!-- Row Height -->
-    <string name="row_height_title">Row height</string>
+    <string name="row_height_title">ارتفاع ردیف</string>
     <!-- Background blur -->
-    <string name="background_blur_title">Background blur depth</string>
-    <string name="background_blur_summary">Set blur depth level for recents and app drawer</string>
+    <string name="background_blur_title">مقدار تاری پس زمینه</string>
+    <string name="background_blur_summary">سطح میزان تاری را برای موارد اخیر و منو فهرست برنامه تنظیم کنید</string>
     <!-- QuickSpace -->
-    <string name="show_quickspace_title">At A Glance</string>
-    <string name="show_quickspace_summary">Show at the top of your home screen</string>
+    <string name="show_quickspace_title">در یک نگاه</string>
+    <string name="show_quickspace_summary">نمایش در بالای صفحه اصلی</string>
     <!-- QuickSpace: QuickEvent: Device Intro Event -->
     <!-- QuickSpace: QuickEvent: Greetings -->
-    <string name="quickspace_grt_morning">Good morning.</string>
-    <string name="quickspace_grt_evening">Good evening.</string>
-    <string name="quickspace_grt_afternoon">Good afternoon.</string>
-    <string name="quickspace_grt_night">Good night.</string>
-    <string name="quickspace_grt_midnight">Solemn midnight.</string>
-    <string name="quickspace_grt_general">Good day.</string>
-    <string name="quickspace_ext_one">Today is</string>
-    <string name="quickspace_ext_two">It\'s</string>
-    <string name="quickspace_ext_three">It\'s</string>
+    <string name="quickspace_grt_morning">صبح بخیر.</string>
+    <string name="quickspace_grt_evening">عصر بخیر.</string>
+    <string name="quickspace_grt_afternoon">بعدازظهر بخیر.</string>
+    <string name="quickspace_grt_night">شب بخیر.</string>
+    <string name="quickspace_grt_midnight">نیمه شب.</string>
+    <string name="quickspace_grt_general">روز خوب.</string>
+    <string name="quickspace_ext_one">امروز روز</string>
+    <string name="quickspace_ext_two">اکنون</string>
+    <string name="quickspace_ext_three">اکنون</string>
     <!-- QuickSpace: QuickEvent: Ambient Play -->
-    <string name="qe_now_playing_unknown_artist">Unknown Artist</string>
-    <string name="qe_now_playing_ext_one">Now playing</string>
+    <string name="qe_now_playing_unknown_artist">هنرمند ناشناخته</string>
+    <string name="qe_now_playing_ext_one">درحال پخش</string>
     <string name="qe_now_playing_ext_two"></string>
-    <string name="qe_now_playing_by">By</string>
+    <string name="qe_now_playing_by">توسط</string>
     <!-- Quickspace Now Playing -->
-    <string name="quickspace_now_playing_title">Now playing</string>
-    <string name="quickspace_now_playing_summary">Show the song you\'re playing</string>
+    <string name="quickspace_now_playing_title">درحال پخش</string>
+    <string name="quickspace_now_playing_summary">نمایش آهنگی که در حال پخش است</string>
     <!-- Quickspace alternative view -->
-    <string name="quickspace_alternate_style_title">Extended style</string>
-    <string name="quickspace_alternate_style_summary">Switch to extended style</string>
+    <string name="quickspace_alternate_style_title">استایل کامل</string>
+    <string name="quickspace_alternate_style_summary">تغیر به استایل کامل</string>
     <!-- Quickspace PSA - Custom messages for the glance -->
-    <string name="quickspace_psa_title">Random messages</string>
+    <string name="quickspace_psa_title">پیام های تصادفی</string>
     <string name="quickspace_psa_summary">Make your companion more lively with random messages</string>
     <string-array name="quickspace_psa_morning">
-        <item>Good morning!</item>
-        <item>Good morning my friend!</item>
-        <item>What a beautiful day!</item>
-        <item>Have a nice day!</item>
-        <item>Health Glance: A little exercise would be nice</item>
-        <item>Good morning beauty! - not dfntly automated</item>
-        <item>Uhhh.. 5 more minutes...</item>
-        <item>I pour milk first before cereal...</item>
-        <item>Good morning handsome! -not dfntly automated</item>
-        <item>The weather is good, i mean 32C. unsupported msg.</item>
-        <item>Weather is cold hot winter,spring, summer or fall &#128191;</item>
-        <item>That\'s one way to wake up.</item>
-        <item>Rest in peace melatonin.</item>
-        <item>You should change your alarm sounds.</item>
-        <item>Looks like it\'s a beautiful day, isn\'t it?</item>
-        <item>Let\'s get this bread.</item>
-        <item>Check the weather just in case</item>
-        <item>I\'m not alexa, swipe to the left for Google Feed!</item>
-        <item>The weather for today is.. idk</item>
-        <item>Feeling a bit sleepy yet</item>
-        <item>Have you looked outside yet?</item>
-        <item>Keep The Love!</item>
-        <item>Let\'s get this done.</item>
+        <item>صبح بخیر!</item>
+        <item>صبح بخیر دوست من!</item>
+        <item>چه روز زیبایی!</item>
+        <item>روز خوبی داشته باشی!</item>
+        <item>سلامتی در یک نگاه: یکم ورزش چیز خوبیه</item>
+        <item>صبح بخیر زیبا! - این اتوماتیک نیست</item>
+        <item>اوه.. 5 دقیقه دیگه...</item>
+        <item>من قبل از صبحانه اول شیر میریزم...</item>
+        <item>صبح بخیر جذاب! - این اتوماتیک نیست</item>
+        <item>هوا خوبه، منظورم 32 درجه است. پیام پشتیبانی نشد.</item>
+        <item>هوا ممکنه زمستون داغی باشه،بهار، تابستون یا پاییز &#128191;</item>
+        <item>اینم یه راه بیدار شدنه.</item>
+        <item>در آرامش استراحت کن.</item>
+        <item>باید صدای زنگ آلارم رو عوض کنی.</item>
+        <item>به نظر می‌رسه امروز روز قشنگیه، اینطور نیست؟</item>
+        <item>بریم یه نون بخوریم؟</item>
+        <item>محض احتیاط آب و هوا را بررسی کنید</item>
+        <item>من الکسا نیستم، برای اخبار گوگل به سمت چپ بکشید!</item>
+        <item>آب و هوای امروز هست.. نمیدونم</item>
+        <item>هنوز کمی احساس خواب‌آلودگی دارید</item>
+        <item>هنوز بیرون رو نگاه نکردی؟</item>
+        <item>عشق بورزید!</item>
+        <item>بیا کارمونو تموم کنیم.</item>
     </string-array>
     <string-array name="quickspace_psa_noon">
-        <item>Good afternoon..</item>
-        <item>The dawn will arrive sooner or later..</item>
-        <item>Health Glance: Stay Home!</item>
-        <item>A Soda would be nice.</item>
-        <item>Go touch some grass!</item>
-        <item>Do something befor the day ends!</item>
-        <item>Get some snacks while you\'re at it.</item>
-        <item>I want to buy some siomai now..</item>
-        <item>Go out and have fun!</item>
-        <item>If a good time to go out and eat.</item>
-        <item>Did you have fun today?</item>
-        <item>We\'re almost there! Hang on!</item>
-        <item>Let\'s go for some ricebox!</item>
-        <item>It\'s nice to sleep under a tree..</item>
-        <item>I love watching the sunset..</item>
-        <item>Have you eaten your merienda?</item>
-        <item>How about some drinks?</item>
-        <item>Siesta at it\'s finest..</item>
-        <item>Craving for some empanada..</item>
+        <item>بعدازظهر بخیر..</item>
+        <item>غروب داره نزدیک میشه..</item>
+        <item>سلامتی در یک نگاه: درخانه بمانید!</item>
+        <item>یک دونه نوشابه باید خوب باشه.</item>
+        <item>بریم روی چمن ها!</item>
+        <item>قبل از اینکه روز تموم بشه یه کاری کن!</item>
+        <item>زمانی که داری انجامش میدی یکم پفک بگیر.</item>
+        <item>من میخوام یکم سوشی بخرم..</item>
+        <item>بریم بیرون و شاد باشیم!</item>
+        <item>باید زمان خوبی برای بیرون رفتن و خوردن داریم.</item>
+        <item>امروز خوشحال بودی؟</item>
+        <item>بجنب! ما تقریبا رسیدیم!</item>
+        <item>بزن بریم برنج بخوریم!</item>
+        <item>خوابیدن زیر درخت خیلی خوبه..</item>
+        <item>من عاشق تماشا کردن غروبم..</item>
+        <item>دارو هاتو خوردی؟</item>
+        <item>نظرت درباره یکم نوشیدنی چیه؟</item>
+        <item>در بهترین حالت ممکنم..</item>
+        <item>حکاکی روی پیراشکی..</item>
     </string-array>
     <string-array name="quickspace_psa_early_evening">
-        <item>Good Evening!</item>
-        <item>The night comes..</item>
-        <item>Don\'t forget to eat your dinner!</item>
-        <item>Time to relax and eat fries.</item>
-        <item>How about watching something a good movie?</item>
-        <item>Hello, how are you?</item>
-        <item>Maybe try watching some youtube videos</item>
-        <item>Its not bad to watch some news isn\'t it?</item>
-        <item>The eve comes!</item>
-        <item>Hey charge me already!</item>
-        <item>Tonight if you are free.</item>
-        <item>Let spent time to go outside and do fun with friends.</item>
-        <item>Hey! Tea time</item>
-        <item>Friendship is the shadow of the evening, which increases with the setting sun of life!</item>
-        <item>Don\'t think bad buddy</item>
-        <item>Be grateful to everyone</item>
-        <item>The day is almost done. Good job surviving!</item>
-        <item>You are amazing, now take some rest!</item>
-        <item>How\'s your day?</item>
-        <item>If you failed today, you can fail again tomorrow, chill.</item>
+        <item>عصر بخیر!</item>
+        <item>شب داره میاد..</item>
+        <item>شامتو بخور، فراموش نکنی!</item>
+        <item>زمان استحرات خوردن یکم سیب زمینی سرخ کرده است.</item>
+        <item>نظرت درباره تماشای یه فیلم خوب چیه؟</item>
+        <item>سلام، حالت چه طوره؟</item>
+        <item>شاید تماشای کیلیپ های یوتیوب فکر خوبی باشه</item>
+        <item>فکر نکم بد باشه که یکم اخبار ببینیم، نه؟</item>
+        <item>eve داره میاد!</item>
+        <item>هی منو شارژ کن!</item>
+        <item>امشب اگه زمانت آزاده و وقت داری.</item>
+        <item>بزن بریم بیرون و با رفیقا یکم شاد باشیم.</item>
+        <item>هی! زمان چایی خوردنه</item>
+        <item>دوستی دری است گران‌قیمت، قدر رفیقاتون رو یدونید!</item>
+        <item>فکر بد نکن داش</item>
+        <item>با همه خوش برخورد باش</item>
+        <item>امروز تقریبا تمومه. ایول تونستی امروزم دووم بیاری!</item>
+        <item>تو شگفت انگیری، حالا یکم استراحت کن!</item>
+        <item>روزت چجوری گذشت؟</item>
+        <item>اگه امروز شکسست خوردی، فردا هم میتونی دوباره شکست بخوری، تلاش کن.</item>
     </string-array>
     <string-array name="quickspace_psa_evening">
-        <item>Good night!</item>
-        <item>Sleep well!</item>
-        <item>See you tomorrow!</item>
-        <item>Sweet dreams!</item>
-        <item>Don\'t stay up too long</item>
-        <item>Have a good sleep</item>
-        <item>Get some sleep</item>
-        <item>Time to relax</item>
-        <item>Enjoy the night!</item>
-        <item>Time to charge the batteries!</item>
-        <item>Tomorrow might be a great day</item>
-        <item>Get your bones ready for tomorrow</item>
-        <item>Wala na, finish na.</item>
-        <item>I\'m feeling sleepy now..</item>
-        <item>Why aren\'t you sleep yet?</item>
-        <item>Rest in peace melatonin.</item>
-        <item>Dance the night away...</item>
-        <item>Aren\'t the moon and stars amazing? </item>
-        <item>8 hours of sleep is a must!</item>
-        <item>There are many what ifs in this world. Relax.</item>
+        <item>شب بخیر!</item>
+        <item>خوب بخوابی!</item>
+        <item>فردا می بینمت!</item>
+        <item>خوابای خوب ببینی!</item>
+        <item>تا دیروقت بیدار نمون</item>
+        <item>خواب خوبی داشته باشی</item>
+        <item>برو یکم بخواب</item>
+        <item>وقت استراحته</item>
+        <item>از شبت لذت ببر!</item>
+        <item>وقتشه که باتری رو شارژ کنی!</item>
+        <item>فردا شاید یه روز عالی باشه</item>
+        <item>خودتو واسه فردا آماده کن</item>
+        <item>والا بخدا، نه بخدا.</item>
+        <item>احساس خوابالودگی میکنم..</item>
+        <item>چرا هنوز نخوابیدی؟</item>
+        <item>در آرامش استراحت کن.</item>
+        <item>بزن و برقص...</item>
+        <item>ماه و ستاره ها زیبا نیستن؟ </item>
+        <item>8 ساعت خواب در طول شبانه روز واجبه!</item>
+        <item>سوالای و پرسش های زیادی تو این دنیا وجود داره. آروم باش.</item>
     </string-array>
     <string-array name="quickspace_psa_midnight">
-        <item>Um... good mornight?</item>
-        <item>You sure like coffee...</item>
-        <item>It\'s a bit late now</item>
-        <item>Have you ever think about space at this time?</item>
-        <item>Sleep is for the weak!</item>
-        <item>You should fix your sleep schedule</item>
-        <item>Are you more productive at this time?</item>
-        <item>RIP melatonin.. zzzz</item>
-        <item>zzzzzZZZZzzzzzz</item>
-        <item>I was able to sleep, but you weren\'t!??</item>
-        <item>I bet you lost a lot of ranked matches. LMAO</item>
-        <item>Health Glance: 8 hours of sleep is a must!</item>
-        <item>Go ahead drink a cup of coffee, i\'ll contact st. Peter</item>
+        <item>امم.. شب خوبیه؟</item>
+        <item>مطمئنی قهوه دوست داری...</item>
+        <item>الآن یکم دیر وقته</item>
+        <item>تا حالا به یکم فضای اضافی فکر کردی؟</item>
+        <item>خوابیدن برای آدم های ضعیفه!</item>
+        <item>بهتره برنامه خوابتو درست کنی</item>
+        <item>این موقع حس بهتری داری؟</item>
+        <item>در آرامش بخواب.. خرررررپووووف</item>
+        <item>خخخخخررررررپوووووفففف</item>
+        <item>من تونستم بخوابم،تو چی!؟؟</item>
+        <item>شرط می بندم بازی های رنک زیادی رو باختی. خخخ</item>
+        <item>سلامتی در یک نگاه: 8 ساعت خوابیدن در طول روز اجباریه!</item>
+        <item>برو یه فنجان قهوه بخور، برات خیلی خوبه</item>
     </string-array>
     <string-array name="quickspace_psa_random">
-        <item>Let is take a walk together near the ocean shore.</item>
-        <item>Hand in hand you and I</item>
-        <item>Let is cherish every moment we have been given</item>
-        <item>The time is passing by</item>
-        <item>I often pray before I lay down by your side</item>
-        <item>If you receive your calling before I awake...</item>
-        <item>Could I make it through the night </item>
-        <item>Cherish the love we have</item>
-        <item>We should cherish the life we live.</item>
-        <item>Cherish the love!</item>
-        <item>Cherish the life!!!</item>
-        <item>For as long as we both shall live!</item>
-        <item>The world is always changing.</item>
-        <item>Nothing stays the same</item>
-        <item>But love will stand the test of time.</item>
-        <item>The next life that we live in!</item>
-        <item>Remains to be seen.</item>
-        <item>Why are you always looking at your homescreen?</item>
-        <item>The weather is nice today.</item>
-        <item>Let go out..</item>
-        <item>So, baby, pull me closer</item>
-        <item>We are not ever getting older</item>
-        <item>Life is short, make it shorter.</item>
+        <item>بزن بریم کنار دریاچه باهم یکم قدم بزنیم.</item>
+        <item>دست در دست هم، من و تو</item>
+        <item>بیا لحظه لحظه کنار هم بودن مون رو بخاطر بسپاریم</item>
+        <item>زمان داره میگذره</item>
+        <item>بعضی وقت ها دعا و عبادت میکنم</item>
+        <item>اگه تماسی قبل از اینکه بیدار شی دریافت کردی...</item>
+        <item>میشه من در طول شب انجامش بدم </item>
+        <item>Cherish تنها عشقیه که داریم</item>
+        <item>ما باید از زندگی مون مراقبت کنیم.</item>
+        <item>Cherish عشقه!</item>
+        <item>Cherish یعنی زندگی!!!</item>
+        <item>تا زمانی که هر دومون نفس میکشیم!</item>
+        <item>دنیا همیشه در حال تغییره.</item>
+        <item>هیچ چیزی همیشه ثابت نمی مونه</item>
+        <item>اما عشقه که همیشه موندنیه.</item>
+        <item>زندگی بعدی که داری توش زندگی میکنیم!</item>
+        <item>بزار همون جوری بمونه.</item>
+        <item>چرا تو همش به صفحه اصلی گوشیت نگاه میکنی؟</item>
+        <item>امروز هوا خیلی عالیه.</item>
+        <item>بزن بریم بیرون..</item>
+        <item>خب دختر، بیا جلوتر ببینم</item>
+        <item>ما حتی از عمر مونم حساب نشد</item>
+        <item>زندگی کوتاهه، کوتاه ترش کنیم.</item>
     </string-array>
     <!-- Suggestions -->
-    <string name="suggestion_pref_screen_title">Suggestions</string>
-    <string name="suggestion_pref_screen_desc">For All Apps &amp; Home screen suggestions</string>
+    <string name="suggestion_pref_screen_title">پیشنهادات</string>
+    <string name="suggestion_pref_screen_desc">برای تمام برنامه ها &amp; پیشنهادات صفحه اصلی</string>
     <!-- QuickSpace: QuickEvent: Weather -->
-    <string name="quick_event_ambient_weather_title">Weather condition</string>
-    <string name="quick_event_ambient_weather_summary">Display current weather condition and temperature</string>
-    <string name="quick_event_ambient_weather_enabled_info">Requires weather service to be enabled</string>
-    <string name="quick_event_ambient_detailed_weather_title">Detailed Weather condition</string>
-    <string name="quick_event_ambient_detailed_weather_summary">Display detailed weather condition and temperature</string>
+    <string name="quick_event_ambient_weather_title">شرایط آب و هوایی</string>
+    <string name="quick_event_ambient_weather_summary">نمایش دما و شرایط آب و هوایی فعلی</string>
+    <string name="quick_event_ambient_weather_enabled_info">نیازمند روشن بودن سرویس آب و هوا می باشد</string>
+    <string name="quick_event_ambient_detailed_weather_title">اطلاعات کامل آب و هوا</string>
+    <string name="quick_event_ambient_detailed_weather_summary">نمایش اطلاعات کاملدما و شرایط آب و هوایی</string>
     <!-- Background opacity -->
-    <string name="background_opacity_title">Background opacity</string>
+    <string name="background_opacity_title">شفافیت پس‌زمینه</string>
     <!-- Taskbar -->
-    <string name="pref_allow_phone_taskbar_title">Use taskbar</string>
-    <string name="pref_allow_phone_taskbar_summary">For opening and switching apps anywhere</string>
+    <string name="pref_allow_phone_taskbar_title">استفاده از نوار وظیفه</string>
+    <string name="pref_allow_phone_taskbar_summary">برای باز کردن و جابجایی برنامه ها در هر کجا</string>
     <!-- Recents icons -->
-    <string name="recents_screenshot_title">Screenshot</string>
-    <string name="recents_clear_all_title">Clear all</string>
-    <string name="recents_lens_title">Lens</string>
-    <string name="recents_lock_title">Pin app</string>
+    <string name="recents_screenshot_title">عکس از صفحه نمایش</string>
+    <string name="recents_clear_all_title">پاک کردن همه</string>
+    <string name="recents_lens_title">لنز</string>
+    <string name="recents_lock_title">سنجاق کردن برنامه</string>
     <!-- All apps themed icons -->
-    <string name="pref_themed_icons_title">Themed icons</string>
-    <string name="pref_themed_icons_summary">Follow themed icons used on home screen</string>
+    <string name="pref_themed_icons_title">آیکون های تم دار</string>
+    <string name="pref_themed_icons_summary">از آیکون های تم دار استفاده شده در صفحه اصلی الگو بگیرید</string>
     <!-- AppInfo -->
-    <string name="app_info_source">Source</string>
-    <string name="app_info_source_system">System</string>
-    <string name="app_info_last_update">Last update</string>
-    <string name="app_info_version">Version</string>
-    <string name="app_info_more">More</string>
+    <string name="app_info_source">منبع</string>
+    <string name="app_info_source_system">سيستم</string>
+    <string name="app_info_last_update">آخرین بروز رسانی</string>
+    <string name="app_info_version">نسخه</string>
+    <string name="app_info_more">بیشتر</string>
     <!-- Icon pack -->
-    <string name="icon_pack_title">Icon pack</string>
-    <string name="icon_pack_default_label">Default</string>
-    <string name="icon_pack_add">Install more</string>
-    <string name="icon_pack_no_market">There\'s no available app store</string>
+    <string name="icon_pack_title">بسته آیکون</string>
+    <string name="icon_pack_default_label">پیش‌فرض</string>
+    <string name="icon_pack_add">نصب موارد جدید</string>
+    <string name="icon_pack_no_market">هیچ فروشگاه برنامه ای در دسسترس نیست</string>
     <!-- Kill App recents action shortcut -->
-    <string name="recent_task_option_kill_app">Kill</string>
-    <string name="recents_app_killed">App killed</string>
+    <string name="recent_task_option_kill_app">متوقف</string>
+    <string name="recents_app_killed">برنامه بسته شد</string>
     <!-- Memory info -->
-    <string name="meminfo_text">%1$s Available | %2$s Total</string>
-    <string name="recents_meminfo_title">Memory info</string>
+    <string name="meminfo_text">%1$s در دسترس | در کل %2$s</string>
+    <string name="recents_meminfo_title">اطلاعات حافظه</string>
     <!-- App drawer searchbar -->
-    <string name="drawer_search_title">App search bar</string>
-    <string name="drawer_search_summary">Search bar on top of the app drawer</string>
+    <string name="drawer_search_title">برنامه نوار جستجو</string>
+    <string name="drawer_search_summary">نوار جستجو در بالای منو فهرست برنامه ها</string>
     <!-- Restart launcher -->
-    <string name="pref_restart_title">Restart</string>
-    <string name="pref_restart_summary">Restart the launcher manually to apply any pending settings</string>
-    <string name="restarting_launcher">Restarting launcher...</string>
+    <string name="pref_restart_title">راه اندازی مجدد</string>
+    <string name="pref_restart_summary">ریست کردن صفحه اصلی برای اعمال تنظیمات اعمال نشده</string>
+    <string name="restarting_launcher">درحال راه اندازی مجدد صفحه...</string>
     <!-- Shake Actions -->
-    <string name="recents_shake_clear_all_title">Shake phone to clear recents</string>
-    <string name="shake_gesture_actions_title">Torch Shake gesture</string>
-    <string name="shake_gesture_actions_summart">Shake phone at homescreen to toggle torch</string>
+    <string name="recents_shake_clear_all_title">تکان دادن تلفن برای بسستن برنامه های اخیر</string>
+    <string name="shake_gesture_actions_title">ژست تکان دادن چراغ قوه</string>
+    <string name="shake_gesture_actions_summart">تلفن را زمانی که در صفحه اصلی هستید برای روشن شدن فلش تکان دهید</string>
     <!-- Recents Scroll Vibration -->
-    <string name="pref_recents_vibration_title">Enable haptic feedback on recents scroll</string>
-    <string name="recents_kill_app">Kill app</string>
+    <string name="pref_recents_vibration_title">روشن کردن ویبره زمانی که در برنامه های اخیر هستید</string>
+    <string name="recents_kill_app">توقف برنامه</string>
     <!-- Toast for Clear All, App Locked n Unlocked -->
-    <string name="action_toast_enabled_title">Action Toasts</string>
-    <string name="action_toast_enabled_summary">Enable-disable Toast clear all</string>
+    <string name="action_toast_enabled_title">اعلانات کارها</string>
+    <string name="action_toast_enabled_summary">فعال-غیرفعال سازی اعلان پاک کردن همه</string>
     <!-- QSB -->
-    <string name="qsb_search_hint">Search this phone and more…</string>
+    <string name="qsb_search_hint">تلفن خود و موارد دیگر را جستجو کنید…</string>
     <!-- About info -->
-    <string name="about_thanks_cat">Special thanks to</string>
-    <string name="about">About</string>
-    <string name="about_summary">Info about the Cherish Launcher</string>
-    <string name="about_app_version">Version 2.0</string>
+    <string name="about_thanks_cat">تشکر ویژه از</string>
+    <string name="about">درباره</string>
+    <string name="about_summary">توضیحاتی درباره راه انداز Cherish</string>
+    <string name="about_app_version">نسخه 2.0</string>
     <string name="settings_category"></string>
 </resources>
