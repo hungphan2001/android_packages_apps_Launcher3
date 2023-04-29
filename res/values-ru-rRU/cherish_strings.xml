@@ -17,248 +17,248 @@
     <!-- Application name -->
     <!-- Folder titles -->
     <!-- General -->
-    <string name="settings_title">Cherish Launcher settings</string>
+    <string name="settings_title">Настройки Cherish лаунчера</string>
     <!-- Categories -->
-    <string name="home_category_title">Home screen</string>
-    <string name="home_category_summary">Set Google now panel and more</string>
-    <string name="icons_category_title">Icons</string>
-    <string name="icons_category_summary">Set icon size and more</string>
-    <string name="app_drawer_category_title">App drawer</string>
-    <string name="app_drawer_category_summary">Customize your app drawer</string>
-    <string name="recents_category_title">Recents</string>
-    <string name="recents_category_summary">Revamp the overview screen</string>
-    <string name="misc_category_title">Miscellaneous</string>
-    <string name="misc_category_summary">Other options</string>
-    <string name="general_category_title">General</string>
-    <string name="interface_category_title">Interface</string>
+    <string name="home_category_title">Главный экран</string>
+    <string name="home_category_summary">Настройки панели Google now и т.д.</string>
+    <string name="icons_category_title">Иконки</string>
+    <string name="icons_category_summary">Настройки размера иконок и другие настройки</string>
+    <string name="app_drawer_category_title">Меню приложений</string>
+    <string name="app_drawer_category_summary">Настройки меню приложений</string>
+    <string name="recents_category_title">Недавние приложения</string>
+    <string name="recents_category_summary">Настройка экрана недавних приложений</string>
+    <string name="misc_category_title">Прочее</string>
+    <string name="misc_category_summary">Другие настройки</string>
+    <string name="general_category_title">Общие</string>
+    <string name="interface_category_title">Интерфейс</string>
     <string name="quickspace_category_title">Quickspace</string>
-    <string name="search_bar_category_title">Search bar</string>
-    <string name="actions_category_title">Quick actions</string>
+    <string name="search_bar_category_title">Строка поиска</string>
+    <string name="actions_category_title">Быстрые настройки</string>
     <!-- Developer options -->
-    <string name="dev_options_title">Developer options</string>
-    <string name="dev_options_summary">Enable some hidden features at your own risk</string>
+    <string name="dev_options_title">Настройки разработчика</string>
+    <string name="dev_options_summary">Включение некоторых скрытых функций (на свой страх и риск)</string>
     <!-- Edit workspace -->
-    <string name="settings_lock_layout_title">Lock layout</string>
-    <string name="settings_lock_layout_summary_on">Icons and widgets can\'t be added, removed and moved on the homescreen</string>
-    <string name="settings_lock_layout_summary_off">Icons and widgets can be added, removed and moved on the homescreen</string>
-    <string name="settings_edit_widgets_error">It\'s not possible to add widgets to the home screen</string>
+    <string name="settings_lock_layout_title">Интерфейс экрана блокировки</string>
+    <string name="settings_lock_layout_summary_on">Иконки/виджеты не могут быть добавлены, удалены или перемещены на главный экран</string>
+    <string name="settings_lock_layout_summary_off">Иконки/виджеты могут быть добавлены, удалены или перемещены на главном экране</string>
+    <string name="settings_edit_widgets_error">Невозможно добавить виджеты на главный экран</string>
     <!-- Hide labels -->
-    <string name="desktop_show_labels">Icon labels on desktop</string>
-    <string name="drawer_show_labels">Icon labels in drawer</string>
+    <string name="desktop_show_labels">Названия иконок на рабочем столе</string>
+    <string name="drawer_show_labels">Названия иконок в меню приложений</string>
     <!-- Settings title to show Google Now at -1 screen on launcher. [CHAR LIMIT=50] -->
-    <string name="title_show_google_app">Swipe to access Google app</string>
+    <string name="title_show_google_app">Провести по главному экрану вправо для запуска приложений Google</string>
     <!-- Settings message explaining when the -1 screen is available on an LTR device. [CHAR LIMIT=100] -->
-    <string name="msg_minus_one_on_left">When you swipe right from main home screen</string>
+    <string name="msg_minus_one_on_left">При свайпе вправо от главного экрана</string>
     <!-- Settings message explaining when the -1 screen is available on an RTL device. [CHAR LIMIT=100] -->
-    <string name="msg_minus_one_on_right">When you swipe left from main home screen</string>
+    <string name="msg_minus_one_on_right">При свайпе влево от главного экрана</string>
     <!-- Trust apps -->
-    <string name="trust_apps_manager_name">Hidden &amp; Protected apps</string>
-    <string name="trust_apps_auth_manager">Unlock to manage the hidden and protected apps</string>
-    <string name="trust_apps_auth_open_app">Authenticate to open %1$s</string>
-    <string name="trust_apps_loading">Loading\u2026</string>
-    <string name="trust_apps_no_lock_error">Please set up a secure lock screen to restrict app access</string>
-    <string name="trust_apps_help">Help</string>
-    <string name="trust_apps_info_hidden">Hidden apps and their widgets are hidden from the drawer</string>
-    <string name="trust_apps_info_protected">Protected apps require authentication to be opened from the launcher</string>
+    <string name="trust_apps_manager_name">Скрытые/Защищённые приложения</string>
+    <string name="trust_apps_auth_manager">Разблокируйте для управления скрытыми и защищёнными приложениями</string>
+    <string name="trust_apps_auth_open_app">Авторизуйтесь, чтобы открыть %1$s</string>
+    <string name="trust_apps_loading">Загрузка\u2026</string>
+    <string name="trust_apps_no_lock_error">Пожалуйста, установите защиту экрана блокировки, чтобы закрыть доступ к приложениям</string>
+    <string name="trust_apps_help">Помощь</string>
+    <string name="trust_apps_info_hidden">Скрытые приложения и их виджеты скрыты со списка приложений</string>
+    <string name="trust_apps_info_protected">Требуется авторизация для доступа к защищённым приложениям с лаунчера</string>
     <!-- DT2S -->
-    <string name="pref_sleep_gesture_title">Double tap to sleep</string>
-    <string name="pref_sleep_gesture_summary">Double tap on empty space for screen off</string>
+    <string name="pref_sleep_gesture_title">Двойное нажатие для блокировки</string>
+    <string name="pref_sleep_gesture_summary">Двойное нажатие на пустое пространство для блокировки</string>
     <!-- Pause apps shortcut -->
-    <string name="pause">Pause</string>
-    <string name="pause_apps_dialog_title">Pause %1$s?</string>
-    <string name="pause_apps_dialog_message">Notifications for %1$s will be paused</string>
-    <string name="paused_apps_dialog_title">App paused</string>
-    <string name="paused_apps_dialog_message">%1$s was directly paused from the launcher</string>
-    <string name="paused_apps_drop_target_label">Pause app</string>
+    <string name="pause">Остановить</string>
+    <string name="pause_apps_dialog_title">Остановить %1$s?</string>
+    <string name="pause_apps_dialog_message">Уведомления для %1$s были остановлены</string>
+    <string name="paused_apps_dialog_title">Приложение остановлено</string>
+    <string name="paused_apps_dialog_message">%1$s было остановлено из лаунчера</string>
+    <string name="paused_apps_drop_target_label">Остановить приложение</string>
     <!-- Custom seekbar -->
-    <string name="custom_seekbar_value">Value: <xliff:g id="v">%s</xliff:g></string>
-    <string name="custom_seekbar_default_value">by default</string>
-    <string name="custom_seekbar_default_value_to_set">Default value: <xliff:g id="v">%s</xliff:g>\nLong tap to set</string>
-    <string name="custom_seekbar_default_value_is_set">Default value is set</string>
+    <string name="custom_seekbar_value">Значение: <xliff:g id="v">%s</xliff:g></string>
+    <string name="custom_seekbar_default_value">по умолчанию</string>
+    <string name="custom_seekbar_default_value_to_set">Значение по умолчанию: <xliff:g id="v">%s</xliff:g>\nЗажмите для настройки</string>
+    <string name="custom_seekbar_default_value_is_set">Значение по умолчанию настроено</string>
     <!-- Icon size -->
-    <string name="icon_size_title">Icon size</string>
+    <string name="icon_size_title">Размер иконок</string>
     <!-- Font size -->
-    <string name="font_size_title">Font size</string>
+    <string name="font_size_title">Размер шрифта</string>
     <!-- App label - max lines -->
-    <string name="icon_max_lines_title">Max lines for app label</string>
+    <string name="icon_max_lines_title">Максимум строк для названия приложения</string>
     <!-- Hotseat searchbar -->
-    <string name="label_search">Search</string>
+    <string name="label_search">Поиск</string>
     <string name="label_lens">Google Lens</string>
-    <string name="label_voice_search">Voice search</string>
-    <string name="dock_music_search_title">Music search</string>
-    <string name="dock_music_search_summary">Start music search on pressing mic icon</string>
-    <string name="dock_search_title">Google search bar</string>
-    <string name="dock_search_summary">Search bar in the bottom dock</string>
-    <string name="dock_theme_title">Themed icons</string>
-    <string name="dock_theme_summary">Use themed icons for search bar</string>
-    <string name="search_radius_title">Corner radius</string>
+    <string name="label_voice_search">Голосовой поиск</string>
+    <string name="dock_music_search_title">Поиск музыки</string>
+    <string name="dock_music_search_summary">Начать поиск музыки при нажатии на иконку микрофона</string>
+    <string name="dock_search_title">Поисковая строка Google</string>
+    <string name="dock_search_summary">Поисковая строка снизу док панели</string>
+    <string name="dock_theme_title">Тематические иконки</string>
+    <string name="dock_theme_summary">Использовать тематические иконки для поисковой строки</string>
+    <string name="search_radius_title">Радиус закругления</string>
     <!-- Hotseat Background -->
-    <string name="hotseat_bg_title">Hotseat background</string>
-    <string name="hotseat_bg_summary">Add translucent background to the app dock</string>
+    <string name="hotseat_bg_title">Фон Hotseat</string>
+    <string name="hotseat_bg_summary">Добавить прозрачный фон для док панели</string>
     <!-- Wallpaper scrolling -->
-    <string name="allow_wallpaper_scrolling">Wallpaper scrolling</string>
-    <string name="allow_wallpaper_scrolling_summary">Wallpaper scrolling effect for multiple screens</string>
+    <string name="allow_wallpaper_scrolling">Прокручивание обоев</string>
+    <string name="allow_wallpaper_scrolling_summary">Эффект прокручивания обоев при перелистывании экранов</string>
     <!-- Wallpaper zooming -->
-    <string name="allow_wallpaper_zooming">Wallpaper zooming</string>
-    <string name="allow_wallpaper_zooming_summary">Zoom in or out the wallpaper when using drawer or recent apps</string>
+    <string name="allow_wallpaper_zooming">Увеличение обоев</string>
+    <string name="allow_wallpaper_zooming_summary">Увеличение/уменьшение обоев при использовании списка приложений</string>
     <!-- Homescreen Statusbar -->
-    <string name="show_statusbar_title">Status Bar</string>
+    <string name="show_statusbar_title">Строка состояния</string>
     <!-- Top shadow -->
-    <string name="show_top_shadow">Top shadow</string>
+    <string name="show_top_shadow">Верхняя тень</string>
     <!-- Row Height -->
-    <string name="row_height_title">Row height</string>
+    <string name="row_height_title">Высота строки</string>
     <!-- Background blur -->
-    <string name="background_blur_title">Background blur depth</string>
-    <string name="background_blur_summary">Set blur depth level for recents and app drawer</string>
+    <string name="background_blur_title">Значение размытия фона</string>
+    <string name="background_blur_summary">Задать значение размытия фона</string>
     <!-- QuickSpace -->
-    <string name="show_quickspace_title">At A Glance</string>
-    <string name="show_quickspace_summary">Show at the top of your home screen</string>
+    <string name="show_quickspace_title">Самое Главное</string>
+    <string name="show_quickspace_summary">Показать сверху главного экрана</string>
     <!-- QuickSpace: QuickEvent: Device Intro Event -->
     <!-- QuickSpace: QuickEvent: Greetings -->
-    <string name="quickspace_grt_morning">Good morning.</string>
-    <string name="quickspace_grt_evening">Good evening.</string>
-    <string name="quickspace_grt_afternoon">Good afternoon.</string>
-    <string name="quickspace_grt_night">Good night.</string>
-    <string name="quickspace_grt_midnight">Solemn midnight.</string>
-    <string name="quickspace_grt_general">Good day.</string>
-    <string name="quickspace_ext_one">Today is</string>
-    <string name="quickspace_ext_two">It\'s</string>
-    <string name="quickspace_ext_three">It\'s</string>
+    <string name="quickspace_grt_morning">Доброе утро.</string>
+    <string name="quickspace_grt_evening">Добрый вечер.</string>
+    <string name="quickspace_grt_afternoon">Добрый день.</string>
+    <string name="quickspace_grt_night">Доброй ночи.</string>
+    <string name="quickspace_grt_midnight">Торжественной полночи.</string>
+    <string name="quickspace_grt_general">Добрый день.</string>
+    <string name="quickspace_ext_one">Сегодня</string>
+    <string name="quickspace_ext_two">Сейчас</string>
+    <string name="quickspace_ext_three">Сейчас</string>
     <!-- QuickSpace: QuickEvent: Ambient Play -->
-    <string name="qe_now_playing_unknown_artist">Unknown Artist</string>
-    <string name="qe_now_playing_ext_one">Now playing</string>
+    <string name="qe_now_playing_unknown_artist">Неизвестный исполнитель</string>
+    <string name="qe_now_playing_ext_one">Сейчас играет</string>
     <string name="qe_now_playing_ext_two"></string>
-    <string name="qe_now_playing_by">By</string>
+    <string name="qe_now_playing_by">От</string>
     <!-- Quickspace Now Playing -->
-    <string name="quickspace_now_playing_title">Now playing</string>
-    <string name="quickspace_now_playing_summary">Show the song you\'re playing</string>
+    <string name="quickspace_now_playing_title">Сейчас играет</string>
+    <string name="quickspace_now_playing_summary">Показать воспроизводимую песню</string>
     <!-- Quickspace alternative view -->
-    <string name="quickspace_alternate_style_title">Extended style</string>
-    <string name="quickspace_alternate_style_summary">Switch to extended style</string>
+    <string name="quickspace_alternate_style_title">Современная версия</string>
+    <string name="quickspace_alternate_style_summary">Переключиться на современную версию</string>
     <!-- Quickspace PSA - Custom messages for the glance -->
-    <string name="quickspace_psa_title">Random messages</string>
-    <string name="quickspace_psa_summary">Make your companion more lively with random messages</string>
+    <string name="quickspace_psa_title">Случайное сообщение</string>
+    <string name="quickspace_psa_summary">Сделайте своего спутника более живым со случайными сообщениями</string>
     <string-array name="quickspace_psa_morning">
-        <item>Good morning!</item>
-        <item>Good morning my friend!</item>
-        <item>What a beautiful day!</item>
-        <item>Have a nice day!</item>
-        <item>Health Glance: A little exercise would be nice</item>
-        <item>Good morning beauty! - not dfntly automated</item>
-        <item>Uhhh.. 5 more minutes...</item>
-        <item>I pour milk first before cereal...</item>
-        <item>Good morning handsome! -not dfntly automated</item>
-        <item>The weather is good, i mean 32C. unsupported msg.</item>
-        <item>Weather is cold hot winter,spring, summer or fall &#128191;</item>
-        <item>That\'s one way to wake up.</item>
-        <item>Rest in peace melatonin.</item>
-        <item>You should change your alarm sounds.</item>
-        <item>Looks like it\'s a beautiful day, isn\'t it?</item>
-        <item>Let\'s get this bread.</item>
-        <item>Check the weather just in case</item>
-        <item>I\'m not alexa, swipe to the left for Google Feed!</item>
-        <item>The weather for today is.. idk</item>
-        <item>Feeling a bit sleepy yet</item>
-        <item>Have you looked outside yet?</item>
-        <item>Keep The Love!</item>
-        <item>Let\'s get this done.</item>
+        <item>Доброе утро!</item>
+        <item>Доброе утро, друг мой!</item>
+        <item>Какой прекрасный день!</item>
+        <item>Хорошего дня!</item>
+        <item>Glance здоровье: небольшое упражнение не помешало бы</item>
+        <item>Доброе утро, солнышко! - точно не автоматизированно</item>
+        <item>Нууу... ещё 5 минут...</item>
+        <item>Я сначала наливаю молоко, потом сыплю хлопья...</item>
+        <item>Доброе утро, красавчик! - точно не автоматизированно</item>
+        <item>Погода сейчас хорошая, в смысле 32°С. неподдерживаемая фраза.</item>
+        <item>Погода сейчас жаркая холодная, зима, весна, лето или осень &#128191;</item>
+        <item>Это один из способов проснуться.</item>
+        <item>Покойся вечно, мелатонин.</item>
+        <item>Лучше поменяй звук будильника.</item>
+        <item>Какой прекрасный день, не так ли?</item>
+        <item>Давай сделаем это.</item>
+        <item>На всякий, проверь погоду</item>
+        <item>Я не алекса, свайпни влево для Gogle Feed!</item>
+        <item>Погода сейчас... не знаю</item>
+        <item>До сих пор сонный</item>
+        <item>Проветривался ли ты уже?</item>
+        <item>С любовью!</item>
+        <item>Сделаем это.</item>
     </string-array>
     <string-array name="quickspace_psa_noon">
-        <item>Good afternoon..</item>
-        <item>The dawn will arrive sooner or later..</item>
-        <item>Health Glance: Stay Home!</item>
-        <item>A Soda would be nice.</item>
-        <item>Go touch some grass!</item>
-        <item>Do something befor the day ends!</item>
-        <item>Get some snacks while you\'re at it.</item>
-        <item>I want to buy some siomai now..</item>
-        <item>Go out and have fun!</item>
-        <item>If a good time to go out and eat.</item>
-        <item>Did you have fun today?</item>
-        <item>We\'re almost there! Hang on!</item>
-        <item>Let\'s go for some ricebox!</item>
-        <item>It\'s nice to sleep under a tree..</item>
-        <item>I love watching the sunset..</item>
-        <item>Have you eaten your merienda?</item>
-        <item>How about some drinks?</item>
-        <item>Siesta at it\'s finest..</item>
-        <item>Craving for some empanada..</item>
+        <item>Добрый день..</item>
+        <item>Рассвет скоро появится, или нет..</item>
+        <item>Glance здоровье: Оставайтесь дома!</item>
+        <item>Сейчас бы газировки.</item>
+        <item>Иди потрогай траву!</item>
+        <item>Сделай что-нибудь, пока день не закончился!</item>
+        <item>Возьми закуски пока хочешь.</item>
+        <item>Надо купить пару сиомай..</item>
+        <item>Выйди и повеселись!</item>
+        <item>Если хорошее время для выхода и еды.</item>
+        <item>Ты сегодня веселился?</item>
+        <item>Мы почти всё! Подожди!</item>
+        <item>Давай за рисом!</item>
+        <item>Как хорошо спать под деревом..</item>
+        <item>Я люблю смотреть на восход..</item>
+        <item>Ты уже съел свой полдник?</item>
+        <item>Как насчёт выпивки?</item>
+        <item>Сиеста в своём стиле..</item>
+        <item>В поисках эмпады..</item>
     </string-array>
     <string-array name="quickspace_psa_early_evening">
-        <item>Good Evening!</item>
-        <item>The night comes..</item>
-        <item>Don\'t forget to eat your dinner!</item>
-        <item>Time to relax and eat fries.</item>
-        <item>How about watching something a good movie?</item>
-        <item>Hello, how are you?</item>
-        <item>Maybe try watching some youtube videos</item>
-        <item>Its not bad to watch some news isn\'t it?</item>
-        <item>The eve comes!</item>
-        <item>Hey charge me already!</item>
-        <item>Tonight if you are free.</item>
-        <item>Let spent time to go outside and do fun with friends.</item>
-        <item>Hey! Tea time</item>
-        <item>Friendship is the shadow of the evening, which increases with the setting sun of life!</item>
-        <item>Don\'t think bad buddy</item>
-        <item>Be grateful to everyone</item>
-        <item>The day is almost done. Good job surviving!</item>
-        <item>You are amazing, now take some rest!</item>
-        <item>How\'s your day?</item>
-        <item>If you failed today, you can fail again tomorrow, chill.</item>
+        <item>Добрый вечер!</item>
+        <item>Ночь наступает..</item>
+        <item>Не забудь про ужин!</item>
+        <item>Время раслабона и картошки фри.</item>
+        <item>Как насчёт кино?</item>
+        <item>Привет, ну как ты?</item>
+        <item>Посмотри немного ютуба</item>
+        <item>Самое время проверить новости, не так ли?</item>
+        <item>Канун рождества наступает!</item>
+        <item>Заряди меня наконец!</item>
+        <item>Сегодня, если свободен.</item>
+        <item>Время провести время на улице с друзьями.</item>
+        <item>Время чая!</item>
+        <item>Дружба - тень вечера, которая увеличивается от света жизни!</item>
+        <item>Не думай о фигне, друг</item>
+        <item>Будь вежлив со всеми</item>
+        <item>День почти закончился. Молодец!</item>
+        <item>Ты молодец, теперь отдохни!</item>
+        <item>Как провёл день?</item>
+        <item>Если ты сегодня облажался, то ты можешь облажаться и завтра, расслабься.</item>
     </string-array>
     <string-array name="quickspace_psa_evening">
-        <item>Good night!</item>
-        <item>Sleep well!</item>
-        <item>See you tomorrow!</item>
-        <item>Sweet dreams!</item>
-        <item>Don\'t stay up too long</item>
-        <item>Have a good sleep</item>
-        <item>Get some sleep</item>
-        <item>Time to relax</item>
-        <item>Enjoy the night!</item>
-        <item>Time to charge the batteries!</item>
-        <item>Tomorrow might be a great day</item>
-        <item>Get your bones ready for tomorrow</item>
-        <item>Wala na, finish na.</item>
-        <item>I\'m feeling sleepy now..</item>
-        <item>Why aren\'t you sleep yet?</item>
-        <item>Rest in peace melatonin.</item>
-        <item>Dance the night away...</item>
-        <item>Aren\'t the moon and stars amazing? </item>
-        <item>8 hours of sleep is a must!</item>
-        <item>There are many what ifs in this world. Relax.</item>
+        <item>Доброй ночи!</item>
+        <item>Спокойной ночи!</item>
+        <item>До завтра!</item>
+        <item>Сладких снов!</item>
+        <item>Не засиживайся</item>
+        <item>Хорошего сна</item>
+        <item>Иди поспи</item>
+        <item>Время сна</item>
+        <item>Хорошей ночи!</item>
+        <item>Время зарядить батарею!</item>
+        <item>Завтра будет отличный день</item>
+        <item>Готовься ко завтрашнему дню</item>
+        <item>А ну-ка, заканчивай-ка.</item>
+        <item>Я уже сонный..</item>
+        <item>Почему ты ещё не спишь?</item>
+        <item>Покойся с миром, мелатонин.</item>
+        <item>Танцуй всю ночь напролет...</item>
+        <item>Разве луна и звёзды не прекрасны? </item>
+        <item>Восемь часов сна обязательны!</item>
+        <item>В этом мире есть много \"если\". Расслабься.</item>
     </string-array>
     <string-array name="quickspace_psa_midnight">
-        <item>Um... good mornight?</item>
-        <item>You sure like coffee...</item>
-        <item>It\'s a bit late now</item>
-        <item>Have you ever think about space at this time?</item>
-        <item>Sleep is for the weak!</item>
-        <item>You should fix your sleep schedule</item>
-        <item>Are you more productive at this time?</item>
-        <item>RIP melatonin.. zzzz</item>
-        <item>zzzzzZZZZzzzzzz</item>
-        <item>I was able to sleep, but you weren\'t!??</item>
-        <item>I bet you lost a lot of ranked matches. LMAO</item>
-        <item>Health Glance: 8 hours of sleep is a must!</item>
-        <item>Go ahead drink a cup of coffee, i\'ll contact st. Peter</item>
+        <item>Эм... доброе утро?</item>
+        <item>Ты точно любишь кофе...</item>
+        <item>Уже поздновато</item>
+        <item>Думал ли ты о космосе в это время?</item>
+        <item>Сон для слабаков!</item>
+        <item>Тебе нужно восстановить свой режим сна</item>
+        <item>Более ли ты продуктивный сейчас?</item>
+        <item>RIP мелатонин.. хрррхрр</item>
+        <item>хрррр-хрррр-хрррр</item>
+        <item>Я мог поспать, но ты нет!??</item>
+        <item>Ты точно проиграл несколько каток. ЛОХ</item>
+        <item>Glance здоровье: восьми часовой сон обязателен!</item>
+        <item>Ну давай, выпей кружку кофе, я позвоню святому Петру</item>
     </string-array>
     <string-array name="quickspace_psa_random">
-        <item>Let is take a walk together near the ocean shore.</item>
-        <item>Hand in hand you and I</item>
-        <item>Let is cherish every moment we have been given</item>
-        <item>The time is passing by</item>
-        <item>I often pray before I lay down by your side</item>
-        <item>If you receive your calling before I awake...</item>
-        <item>Could I make it through the night </item>
-        <item>Cherish the love we have</item>
-        <item>We should cherish the life we live.</item>
-        <item>Cherish the love!</item>
-        <item>Cherish the life!!!</item>
-        <item>For as long as we both shall live!</item>
-        <item>The world is always changing.</item>
-        <item>Nothing stays the same</item>
-        <item>But love will stand the test of time.</item>
+        <item>Давай прогуляемся у берега океана.</item>
+        <item>За ручку вместе</item>
+        <item>Давай всвишним каждый момент, проведённый вместе</item>
+        <item>Время уходит</item>
+        <item>Я обычно сначала молюсь, когда ложусь с тобой</item>
+        <item>Если тебе звонят пока я сплю...</item>
+        <item>Я могу всю ночь </item>
+        <item>Раздели нашу вишнёвь &lt;3</item>
+        <item>Мы должны вишнить нашу жизнь.</item>
+        <item>Вишнюй любовь!</item>
+        <item>Вишнюй жизнь!!!</item>
+        <item>На столько долго, насколько мы должны жить!</item>
+        <item>Мир всегда меняется.</item>
+        <item>Ничто не вечно</item>
+        <item>Но любовь вечна.</item>
         <item>The next life that we live in!</item>
         <item>Remains to be seen.</item>
         <item>Why are you always looking at your homescreen?</item>
