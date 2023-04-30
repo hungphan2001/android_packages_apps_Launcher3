@@ -259,77 +259,77 @@
         <item>Мир всегда меняется.</item>
         <item>Ничто не вечно</item>
         <item>Но любовь вечна.</item>
-        <item>The next life that we live in!</item>
-        <item>Remains to be seen.</item>
-        <item>Why are you always looking at your homescreen?</item>
-        <item>The weather is nice today.</item>
-        <item>Let go out..</item>
-        <item>So, baby, pull me closer</item>
-        <item>We are not ever getting older</item>
-        <item>Life is short, make it shorter.</item>
+        <item>Следующая жизнь, в которой мы живем!</item>
+        <item>Остатки для просмотра.</item>
+        <item>Почему ты всегда смотришь на свой главный экран?</item>
+        <item>Погода ныне хороша.</item>
+        <item>Давай выйдем..</item>
+        <item>Детка, поднеси меня ближе</item>
+        <item>Мы даже н5 стареем</item>
+        <item>Жизнь коротка, сделай её короче.</item>
     </string-array>
     <!-- Suggestions -->
-    <string name="suggestion_pref_screen_title">Suggestions</string>
-    <string name="suggestion_pref_screen_desc">For All Apps &amp; Home screen suggestions</string>
+    <string name="suggestion_pref_screen_title">Предложения</string>
+    <string name="suggestion_pref_screen_desc">Предложения в списке приложений и главном экране</string>
     <!-- QuickSpace: QuickEvent: Weather -->
-    <string name="quick_event_ambient_weather_title">Weather condition</string>
-    <string name="quick_event_ambient_weather_summary">Display current weather condition and temperature</string>
-    <string name="quick_event_ambient_weather_enabled_info">Requires weather service to be enabled</string>
-    <string name="quick_event_ambient_detailed_weather_title">Detailed Weather condition</string>
-    <string name="quick_event_ambient_detailed_weather_summary">Display detailed weather condition and temperature</string>
+    <string name="quick_event_ambient_weather_title">Погодные условия</string>
+    <string name="quick_event_ambient_weather_summary">Отобразить текущую температуру и погодные условия</string>
+    <string name="quick_event_ambient_weather_enabled_info">Сервис погоды должен быть включен</string>
+    <string name="quick_event_ambient_detailed_weather_title">Подробные условия погоды</string>
+    <string name="quick_event_ambient_detailed_weather_summary">Отобразить подробную температуру и условия погоды</string>
     <!-- Background opacity -->
-    <string name="background_opacity_title">Background opacity</string>
+    <string name="background_opacity_title">Прозрачность фона</string>
     <!-- Taskbar -->
-    <string name="pref_allow_phone_taskbar_title">Use taskbar</string>
-    <string name="pref_allow_phone_taskbar_summary">For opening and switching apps anywhere</string>
+    <string name="pref_allow_phone_taskbar_title">Использовать док панель</string>
+    <string name="pref_allow_phone_taskbar_summary">Для открытия и переключения приложений по всюду</string>
     <!-- Recents icons -->
-    <string name="recents_screenshot_title">Screenshot</string>
-    <string name="recents_clear_all_title">Clear all</string>
+    <string name="recents_screenshot_title">Снимок экрана</string>
+    <string name="recents_clear_all_title">Очистить всё</string>
     <string name="recents_lens_title">Lens</string>
-    <string name="recents_lock_title">Pin app</string>
+    <string name="recents_lock_title">Закрепить приложение</string>
     <!-- All apps themed icons -->
-    <string name="pref_themed_icons_title">Themed icons</string>
-    <string name="pref_themed_icons_summary">Follow themed icons used on home screen</string>
+    <string name="pref_themed_icons_title">Тематические иконки</string>
+    <string name="pref_themed_icons_summary">Использовать тематические иконки на главном экране</string>
     <!-- AppInfo -->
-    <string name="app_info_source">Source</string>
-    <string name="app_info_source_system">System</string>
-    <string name="app_info_last_update">Last update</string>
-    <string name="app_info_version">Version</string>
-    <string name="app_info_more">More</string>
+    <string name="app_info_source">Источник</string>
+    <string name="app_info_source_system">Система</string>
+    <string name="app_info_last_update">Последнее обновление</string>
+    <string name="app_info_version">Версия</string>
+    <string name="app_info_more">Другое</string>
     <!-- Icon pack -->
-    <string name="icon_pack_title">Icon pack</string>
-    <string name="icon_pack_default_label">Default</string>
-    <string name="icon_pack_add">Install more</string>
-    <string name="icon_pack_no_market">There\'s no available app store</string>
+    <string name="icon_pack_title">Пак иконок</string>
+    <string name="icon_pack_default_label">По умочанию</string>
+    <string name="icon_pack_add">Установить ещё</string>
+    <string name="icon_pack_no_market">Нет доступных магазинов приложений</string>
     <!-- Kill App recents action shortcut -->
-    <string name="recent_task_option_kill_app">Kill</string>
-    <string name="recents_app_killed">App killed</string>
+    <string name="recent_task_option_kill_app">Завершить</string>
+    <string name="recents_app_killed">Приложение завершено</string>
     <!-- Memory info -->
-    <string name="meminfo_text">%1$s Available | %2$s Total</string>
-    <string name="recents_meminfo_title">Memory info</string>
+    <string name="meminfo_text">Доступно %1$s из %2$s</string>
+    <string name="recents_meminfo_title">Информация о памяти</string>
     <!-- App drawer searchbar -->
-    <string name="drawer_search_title">App search bar</string>
-    <string name="drawer_search_summary">Search bar on top of the app drawer</string>
+    <string name="drawer_search_title">Поисковик приложений</string>
+    <string name="drawer_search_summary">Поисковик сверху списка приложений</string>
     <!-- Restart launcher -->
-    <string name="pref_restart_title">Restart</string>
-    <string name="pref_restart_summary">Restart the launcher manually to apply any pending settings</string>
-    <string name="restarting_launcher">Restarting launcher...</string>
+    <string name="pref_restart_title">Перезапуск</string>
+    <string name="pref_restart_summary">Перезапуск лаунчера для применения настроек</string>
+    <string name="restarting_launcher">Перезапуск лаунчера...</string>
     <!-- Shake Actions -->
-    <string name="recents_shake_clear_all_title">Shake phone to clear recents</string>
-    <string name="shake_gesture_actions_title">Torch Shake gesture</string>
-    <string name="shake_gesture_actions_summart">Shake phone at homescreen to toggle torch</string>
+    <string name="recents_shake_clear_all_title">Потряхивание телефона для очистки недавних приложений</string>
+    <string name="shake_gesture_actions_title">Потряхивание для включение фонарика</string>
+    <string name="shake_gesture_actions_summart">Потрясите телефон на главном экране для включения фонарика</string>
     <!-- Recents Scroll Vibration -->
-    <string name="pref_recents_vibration_title">Enable haptic feedback on recents scroll</string>
-    <string name="recents_kill_app">Kill app</string>
+    <string name="pref_recents_vibration_title">Включить вибрацию при прокрутке списка недавних приложений</string>
+    <string name="recents_kill_app">Убить приложение</string>
     <!-- Toast for Clear All, App Locked n Unlocked -->
-    <string name="action_toast_enabled_title">Action Toasts</string>
-    <string name="action_toast_enabled_summary">Enable-disable Toast clear all</string>
+    <string name="action_toast_enabled_title">Всплывающие уведомления действий</string>
+    <string name="action_toast_enabled_summary">Вкл/выкл всплывающее уведомление при очистке</string>
     <!-- QSB -->
-    <string name="qsb_search_hint">Search this phone and more…</string>
+    <string name="qsb_search_hint">Поиск по телефону и другое…</string>
     <!-- About info -->
-    <string name="about_thanks_cat">Special thanks to</string>
-    <string name="about">About</string>
-    <string name="about_summary">Info about the Cherish Launcher</string>
-    <string name="about_app_version">Version 2.0</string>
+    <string name="about_thanks_cat">Особое благодарность</string>
+    <string name="about">Информация</string>
+    <string name="about_summary">Информация о Cherish лаунчере</string>
+    <string name="about_app_version">Версия 2.0</string>
     <string name="settings_category"></string>
 </resources>
